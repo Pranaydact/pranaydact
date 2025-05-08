@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Home(My Startup)<br>🌱 I’m currently learning everything from Launching your startup to marketing and sales
+🔭 I’m currently working on Something<br>🌱 I’m currently learning Everything for Something
 
 
 ## 🌐 Socials:
